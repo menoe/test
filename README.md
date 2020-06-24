@@ -8,6 +8,8 @@ mergereqpass = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
 
 mergereqpass1 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
 
+mergereqpass1 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
+
 mergereqpass2 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
 
 testpass = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
@@ -22,3 +24,5 @@ dasd dasdas
 testpassPullReq = "A3TAAKIABBBBBBBBBBBBBBBC"
 
 secret1 = "A3TAAKIABBBBBBBBBBBBBBBC"
+
+mergereqpass1 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
