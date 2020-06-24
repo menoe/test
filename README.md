@@ -11,3 +11,8 @@ mergereqpass1 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
 mergereqpass2 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
 
 testpass = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
+
+testpass1 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
+
+testpass2 = "A3TAAKIABBBBBBBBBBBBBBBB" njnonoj
+testpass3 = "A3TAAKIABBBBBBBBBBBBBBBB"
